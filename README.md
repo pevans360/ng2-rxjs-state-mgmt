@@ -3,6 +3,10 @@ Update of code from Milea Razvan based on Tackling State blog post by Victor Sav
 
 https://vsavkin.com/managing-state-in-angular-2-applications-caf78d123d02#.f8r5puje5
 
+ - In a command window, navigate to application folder and run 'npm install'.  
+ - Then run 'npm start'.  
+ - In a browser, navigate to localhost:4200.  
+
 Runs on versions: 
  - node: 6.3.0
  - npm: 3.10
